@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/storage
+/secrets
+/tmp
+.env
+.DS_Store
+**/.DS_Store
